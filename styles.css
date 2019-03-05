@@ -1,0 +1,30 @@
+img{
+    width: 550px;
+    align-items: center;
+}
+button{
+    background-color: Chartreuse ;
+    width: 170px;
+    height: 50px;
+    font-size: 16pt;
+    color: white;
+    border-radius: 10px;
+    border: 3px solid gray;
+}
+h1{
+     background-image: url("https://www.ea.com/bundles/eathesims/dist/images/share/share_default.jpg");
+     background-size: 400px;
+    padding: 20px;
+    color: black ;
+    text-shadow: 4px 3px white;
+    font-family: 'Abril Fatface', cursive;
+}
+
+body{
+    text-align: center;
+     background-image: url("https://cdn-images-1.medium.com/max/1600/0*I-sI3u34g0ydRqyA");
+}
+button{
+    align-items: center;
+   
+}
